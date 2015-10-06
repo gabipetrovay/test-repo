@@ -1,3 +1,3 @@
 # test-repo
 
-- first version
+- second version
